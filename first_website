@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>刘洁的第一个网站页面小工具</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+	  <div style="
+    background-color:#f1f1f1;
+    text-align:center;
+    padding:80px;
+    ">
+      <img src='https://kangwenchang.com/logo.png' alt='刘洁' width="80px" height="80ps">
+
+    </div >
+    <div style="
+    max-width:700px;
+    margin:30px auto;
+    padding:15px;
+    line-height:1.7;
+    ">
+    <p>hello everyone!</p>
+    <p>here is my first website.</p>
+    <p>我的网址</p>
+    <p>我的网址</p>
+    </div>
+
+    <div style="
+    background-color:#dda15e;
+    text-align:center;
+    padding:40px;
+    font-size:12px;
+    ">
+      <p>我的网址</p>
+      <a href="https://coolors.co/palettes/trending">友情链接</a>
+
+    </div>
+  </body>
+</html>
